@@ -1,0 +1,22 @@
+Project description: 
+
+    Create human interfacing with dabase without usage of mouse and keyboard
+    How? STT and TTS 
+
+List of modules:
+    1. speech_recognition 
+    2. pyttsx3 
+    3. pandas 
+    4. sqlite3 
+    5. csv
+    6. datetime
+    7. wiwkipedia
+
+
+Tasks: 
+    1. Link Databse to Voice Input 
+        i. Speed up Process (ambient noise is causing issues)
+
+    2. Create way to visualize database 
+    3. Send database to server 
+    4. Export project to raspberry pi 
