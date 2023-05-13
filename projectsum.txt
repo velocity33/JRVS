@@ -4,7 +4,7 @@ Project description:
     How? STT and TTS 
 
 List of modules:
-    1. speech_recognition 
+    1. SpeechRecognition
     2. pyttsx3 
     3. pandas 
     4. sqlite3 
